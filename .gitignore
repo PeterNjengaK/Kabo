@@ -1,0 +1,11 @@
+.data/
+node_modules/
+.env
+.env.*
+!.env.example
+test-data/
+output/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+kabo-backup*.json
